@@ -1,0 +1,2 @@
+# Ethlagos
+EthLagos Hackathon
